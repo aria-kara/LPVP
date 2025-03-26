@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="mEXiAyWfLK995zcQZaH7">
+    <mxGraphModel dx="2280" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OXPaCymqYDrtf4EJXUQJ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ADE3FF;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="740" width="1030" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="OXPaCymqYDrtf4EJXUQJ-1" value="&lt;font style=&quot;color: rgb(0, 0, 153);&quot;&gt;Robotics&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 153), rgb(218, 218, 255)); background-color: transparent;&quot;&gt;Without&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 153), rgb(218, 218, 255)); background-color: transparent;&quot;&gt;Border&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="810" y="740" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OXPaCymqYDrtf4EJXUQJ-2" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Opportunities and&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Possibilities&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="804" y="993" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OXPaCymqYDrtf4EJXUQJ-4" value="admin Omega stuff:&lt;div&gt;Odido letter&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Email:&lt;/div&gt;&lt;div&gt;confronting justice people&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Writeups of March&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;TAHMO setup and continuity&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="894" y="60" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="OXPaCymqYDrtf4EJXUQJ-5" value="basics of embedded systems:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="OXPaCymqYDrtf4EJXUQJ-6" value="promoting: WIP/O&amp;amp;P/SSA/" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="70" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="OXPaCymqYDrtf4EJXUQJ-7" value="fears" style="swimlane;startSize=0;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
